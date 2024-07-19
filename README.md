@@ -10,7 +10,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Dax, Functions and Formulas](#dax,-functions-and-formulas)
 - [Results / Findings](#results-/-findings)
-- [Recommendation](#recommendation)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
