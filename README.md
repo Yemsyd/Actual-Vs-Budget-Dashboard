@@ -67,4 +67,3 @@ I also applied some new techniques in Microsoft Excel, which I learnt from Finex
 ### Recommendations
 
 - The sales & marketinng department should get more budget for their discount and cost of sales. These are areas where the organization generates revenue so increasing their spendings will yield positive results.
-- 
