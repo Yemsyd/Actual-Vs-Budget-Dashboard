@@ -46,6 +46,8 @@ The diagram view of the Power Pivot page shows me the schema, and all I did was 
 - Which account names took up most of the budget for each department?
 - What month had the lowest and highest spending in the organization?
 
+![Actual spreadsheet](https://github.com/user-attachments/assets/67cf6a80-c7f6-4543-8ce1-a358665b3f63)
+
 ### DAX, Functions and Formulas
 
 In the course of analysing this data, I utilised a couple of formulas and functions in Microsoft Excel, such as DAX, Cube functions, and context (this is my first time using this, and it came in handy since it works better with cube functions). 
@@ -57,6 +59,8 @@ I also applied some new techniques in Microsoft Excel, which I learnt from Finex
    CUBEVALUE("ThisWorkbookDataModel","[Measures].["&$G33&"]","[Calendar].[Month Name].["&H$32&"]",Slicer_Scenario,Slicer_Department),NA())
 
 ### Results / Findings
+
+![Actual slicer](https://github.com/user-attachments/assets/ecd91218-f82a-4838-bbc4-4600d9023f83)
 
  - The Sales/Marketing department had the lowest variance and the highest actual spending in October.
  - The Corporate and project departments had the lowest spending in their budget.
