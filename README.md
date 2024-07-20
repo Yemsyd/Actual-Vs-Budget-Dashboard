@@ -21,7 +21,7 @@ At the end of the project, we were able to make recommendations based on our ana
 
 ### Data Source
 
-Actual vs Budget Data: Finex Skills provided the primary data in "Actual vs Budget.csv". This file contains two sheets. The first shows the Actual amount spent by different departments in an organization, including the purpose of spending(account name), the names of the departments, and the actual amount spent.
+Actual vs Budget Data: Finex Skills provided the primary data in "Actual vs Budget.csv". This file contains two sheets. The first sheet shows the Actual amount spent by different departments in an organization, including the purpose of spending(account name), the names of the departments, and the actual amount spent.
 The second sheet shows the budgeted amount for each department. It includes the same columns as the actual sheet.
 
 ### Tools
